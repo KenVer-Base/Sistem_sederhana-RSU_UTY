@@ -56,34 +56,3 @@ Kode program ini mengimplementasikan pilar OOP sebagai berikut:
 3.  **Polymorphism (Banyak Bentuk)**
     * Penggunaan *Abstract Method* `deskripsi_peran()` pada class `Manusia`.
     * Class `Pasien` mengimplementasikan ulang (override) method tersebut sesuai dengan konteksnya.
-
-## ⚙️ Cara Menjalankan Program
-
-1.  **Clone Repository ini**
-    ```bash
-    git clone [https://github.com/username-anda/nama-repo-anda.git](https://github.com/username-anda/nama-repo-anda.git)
-    ```
-2.  **Masuk ke Direktori**
-    ```bash
-    cd nama-repo-anda
-    ```
-3.  **Jalankan Aplikasi**
-    Pastikan Python sudah terinstal di komputer Anda.
-    ```bash
-    python sistem_klinik_v2.py
-    ```
-    *(Ganti `sistem_klinik_v2.py` dengan nama file python kamu)*
-
-## 📷 Cuplikan Layar (Screenshots)
-
-*(Opsional: Anda bisa menambahkan screenshot aplikasi di sini)*
-1.  **Menu Utama**
-    ![Menu Utama](link-gambar-menu.png)
-2.  **Form Pendaftaran**
-    ![Form Pendaftaran](link-gambar-registrasi.png)
-
-## 👤 Author
-
-* **Nama**: [Nama Anda, misal: Faqih Al Bashori]
-* **NIM**: [NIM Anda, misal: 5240411097]
-* **Prodi**: Informatika - Universitas Teknologi Yogyakarta
