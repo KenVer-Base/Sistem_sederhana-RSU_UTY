@@ -35,7 +35,7 @@ Sesuai dengan rancangan Use Case Diagram:
 
 ## 📂 Struktur Database
 
-Berdasarkan Class Diagram, database `klinik_final.db` terdiri dari tabel:
+Berdasarkan Class Diagram, database terdiri dari tabel:
 * `pasien`: Menyimpan data demografis (Nama, NIK, Alamat).
 * `pendaftaran`: Menyimpan riwayat kunjungan dan antrean.
 * `pemeriksaan`: Menyimpan hasil diagnosa dokter.
